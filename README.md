@@ -16,4 +16,3 @@ Findings
   •	Sinker is a very weird pitch. The vertical movement is very similar but the horizontal movement have a lot of difference. Meaning that the way the pitcher approach     sinker is very different. 
 
   •	Cutter is a very interesting pitch as well. My knowledge on cutter is that it will generate more horizontal movement then vertical movement. But that doesn’t seem to   be the case in these two games
-![image](https://github.com/user-attachments/assets/3fb1d4b2-0f50-4a3b-b4d3-2f3b222559d6)
